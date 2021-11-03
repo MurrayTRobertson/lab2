@@ -1,2 +1,1 @@
-# lab2
-Created with CodeSandbox
+A game about surviving bees as a bear who has just obtained honey!
